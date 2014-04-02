@@ -1,0 +1,14 @@
+# Robots For anhnoithat.com
+User-agent: *
+Disallow: /admin/
+Disallow: /api/
+Disallow: /cache/
+Disallow: /system/
+Disallow: /file/
+Disallow: /include/
+Disallow: /javascript/
+Disallow: /member/
+Disallow: /module/
+Disallow: /skin/
+Disallow: /template/
+Disallow: /application/
